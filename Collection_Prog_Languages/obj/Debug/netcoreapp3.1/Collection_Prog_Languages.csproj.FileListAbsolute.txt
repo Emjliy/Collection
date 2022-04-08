@@ -1,0 +1,14 @@
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\bin\Debug\netcoreapp3.1\Collection_Prog_Languages.exe
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\bin\Debug\netcoreapp3.1\Collection_Prog_Languages.deps.json
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\bin\Debug\netcoreapp3.1\Collection_Prog_Languages.runtimeconfig.json
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\bin\Debug\netcoreapp3.1\Collection_Prog_Languages.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\bin\Debug\netcoreapp3.1\Collection_Prog_Languages.dll
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\bin\Debug\netcoreapp3.1\Collection_Prog_Languages.pdb
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\obj\Debug\netcoreapp3.1\Collection_Prog_Languages.csproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\obj\Debug\netcoreapp3.1\Collection_Prog_Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\obj\Debug\netcoreapp3.1\Collection_Prog_Languages.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\obj\Debug\netcoreapp3.1\Collection_Prog_Languages.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\obj\Debug\netcoreapp3.1\Collection_Prog_Languages.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\obj\Debug\netcoreapp3.1\Collection_Prog_Languages.dll
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\obj\Debug\netcoreapp3.1\Collection_Prog_Languages.pdb
+C:\Users\Emilia\Desktop\Collection_Prog_Languages\Collection_Prog_Languages\obj\Debug\netcoreapp3.1\Collection_Prog_Languages.genruntimeconfig.cache
